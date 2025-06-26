@@ -7,7 +7,7 @@ This repository contains my personal solutions to LeetCode problems. I use this 
 <p align="left">
   <span>&emsp;</span>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,cs,js" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs,py,js" />
   </a>
 </p>
 
