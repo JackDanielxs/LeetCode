@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# ***LeetCode Solutions***
 
 This repository contains my personal solutions to LeetCode problems. I use this space to practice, improve my problem-solving skills, and track my progress over time.
 
@@ -6,8 +6,8 @@ This repository contains my personal solutions to LeetCode problems. I use this 
 
 <p align="left">
   <span>&emsp;</span>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cs,py,js" />
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills.syvixor.com/api/icons?i=java,c,csharp,python,javascript" />
   </a>
 </p>
 
