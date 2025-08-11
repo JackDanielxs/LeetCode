@@ -17,5 +17,8 @@ This repository contains my personal solutions to LeetCode problems. I use this 
   </a>
 </p>
 
-### ***📊 Personal stats*** ###
+### ***🏅 Badges***
+
+
+### ***📊 Personal stats***
 ![LeetCode Stats](https://leetcard.jacoblin.cool/JackDanielxs?theme=dark&animation=true&border=0&radius=20)
