@@ -18,7 +18,9 @@ This repository contains my personal solutions to LeetCode problems. I use this 
 </p>
 
 ### ***🏅 Badges***
-
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="Badges/50days2025.png" width="150" />
+</div>
 
 ### ***📊 Personal stats***
 ![LeetCode Stats](https://leetcard.jacoblin.cool/JackDanielxs?theme=dark&animation=true&border=0&radius=20)
